@@ -12,6 +12,7 @@ body {
   /* color: white; */
   display: inline;
   position: absolute;
+  /* text-decoration: underline; */
 }
 
 .angle_symbol_1 {
@@ -21,4 +22,9 @@ body {
 .angle_symbol_2 {
   top: 10rem;
   left: 10rem;
+}
+
+.table_list {
+  display: table;
+  margin: 0 auto;
 }
