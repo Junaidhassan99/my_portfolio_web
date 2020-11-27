@@ -2,6 +2,23 @@
   border-radius: 50%;
 }
 
- body{
-    background-color: #DCE775;
-} 
+body {
+  background-color: #dce775;
+}
+
+.angle_symbol {
+  font-size: 200px;
+  margin: 0px;
+  /* color: white; */
+  display: inline;
+  position: absolute;
+}
+
+.angle_symbol_1 {
+  top: 0;
+  right: 10rem;
+}
+.angle_symbol_2 {
+  top: 10rem;
+  left: 10rem;
+}
