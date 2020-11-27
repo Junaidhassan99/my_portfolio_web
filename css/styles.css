@@ -25,44 +25,58 @@ body {
 }
 
 .table_list_education {
-    width: 55%;
+  width: 55%;
   display: table;
   margin: 5% auto 0 auto;
 }
 
 .table_list_experience {
   width: 55%;
-display: table;
-margin: 5% auto 0 auto;
-
+  display: table;
+  margin: 5% auto 0 auto;
 }
 
-.education_img{
-    border-radius: 50%;
-    float: left;
-    
+.education_img {
+  border-radius: 50%;
+  float: left;
 }
 
-.experience_img{
+.experience_img {
   border-radius: 50%;
   float: right;
-  
 }
 
-.education_ul{
-    margin-left: 40%;
+.education_ul {
+  margin-left: 40%;
 }
-.education_h4{
-    margin-left: 40%;
+.education_h4 {
+  margin-left: 40%;
 }
 
-.experience_ul{
+.experience_ul {
   margin-right: 40%;
 }
-.experience_h4{
+.experience_h4 {
   margin-right: 40%;
 }
 
+.skills_ul {
+  margin-left: 40%;
+}
+.skills_h4 {
+  margin-left: 40%;
+}
+
+.table_list_skills {
+  width: 55%;
+  display: table;
+  margin: 5% auto 0 auto;
+}
+
+.skills_img {
+  border-radius: 50%;
+  float: left;
+}
 
 /* ul{
     margin-left: 50px;
