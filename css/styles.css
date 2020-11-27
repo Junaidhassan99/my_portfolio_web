@@ -25,6 +25,25 @@ body {
 }
 
 .table_list {
+    width: 55%;
   display: table;
-  margin: 0 auto;
+  margin: 5% auto 0 auto;
 }
+
+.education_img{
+    border-radius: 50%;
+    float: left;
+    
+}
+
+.education_ul{
+    margin-left: 40%;
+}
+.education_h4{
+    margin-left: 40%;
+}
+
+
+/* ul{
+    margin-left: 50px;
+} */
